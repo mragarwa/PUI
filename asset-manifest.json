@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/PUI/static/css/main.ccfb4790.chunk.css",
-    "main.js": "/PUI/static/js/main.544e8ec7.chunk.js",
-    "main.js.map": "/PUI/static/js/main.544e8ec7.chunk.js.map",
+    "main.css": "/PUI/static/css/main.486b4335.chunk.css",
+    "main.js": "/PUI/static/js/main.89772cd8.chunk.js",
+    "main.js.map": "/PUI/static/js/main.89772cd8.chunk.js.map",
     "runtime-main.js": "/PUI/static/js/runtime-main.d62a98a2.js",
     "runtime-main.js.map": "/PUI/static/js/runtime-main.d62a98a2.js.map",
     "static/css/2.2aaa9db4.chunk.css": "/PUI/static/css/2.2aaa9db4.chunk.css",
-    "static/js/2.a8264879.chunk.js": "/PUI/static/js/2.a8264879.chunk.js",
-    "static/js/2.a8264879.chunk.js.map": "/PUI/static/js/2.a8264879.chunk.js.map",
+    "static/js/2.4181b2a6.chunk.js": "/PUI/static/js/2.4181b2a6.chunk.js",
+    "static/js/2.4181b2a6.chunk.js.map": "/PUI/static/js/2.4181b2a6.chunk.js.map",
     "static/js/3.fd18daac.chunk.js": "/PUI/static/js/3.fd18daac.chunk.js",
     "static/js/3.fd18daac.chunk.js.map": "/PUI/static/js/3.fd18daac.chunk.js.map",
     "index.html": "/PUI/index.html",
     "static/css/2.2aaa9db4.chunk.css.map": "/PUI/static/css/2.2aaa9db4.chunk.css.map",
-    "static/css/main.ccfb4790.chunk.css.map": "/PUI/static/css/main.ccfb4790.chunk.css.map",
-    "static/js/2.a8264879.chunk.js.LICENSE.txt": "/PUI/static/js/2.a8264879.chunk.js.LICENSE.txt",
+    "static/css/main.486b4335.chunk.css.map": "/PUI/static/css/main.486b4335.chunk.css.map",
+    "static/js/2.4181b2a6.chunk.js.LICENSE.txt": "/PUI/static/js/2.4181b2a6.chunk.js.LICENSE.txt",
     "static/media/bed.6bb23475.jpg": "/PUI/static/media/bed.6bb23475.jpg",
+    "static/media/cart.f80544ad.svg": "/PUI/static/media/cart.f80544ad.svg",
     "static/media/couch.a8140d05.jpg": "/PUI/static/media/couch.a8140d05.jpg",
     "static/media/cozy.eec8908e.jpg": "/PUI/static/media/cozy.eec8908e.jpg",
-    "static/media/floor2.f04f76db.jpg": "/PUI/static/media/floor2.f04f76db.jpg",
+    "static/media/floor2.2fe6ee3c.jpg": "/PUI/static/media/floor2.2fe6ee3c.jpg",
     "static/media/index.css": "/PUI/static/media/roboto-vietnamese-400-normal.52cebac0.woff2",
     "static/media/round.fbeb81bb.jpg": "/PUI/static/media/round.fbeb81bb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d62a98a2.js",
     "static/css/2.2aaa9db4.chunk.css",
-    "static/js/2.a8264879.chunk.js",
-    "static/css/main.ccfb4790.chunk.css",
-    "static/js/main.544e8ec7.chunk.js"
+    "static/js/2.4181b2a6.chunk.js",
+    "static/css/main.486b4335.chunk.css",
+    "static/js/main.89772cd8.chunk.js"
   ]
 }
